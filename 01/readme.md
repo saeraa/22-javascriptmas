@@ -4,8 +4,8 @@ Write a PANIC! function. The function should take in a sentence and return the s
 
 If the string is a phrase or sentence, add a 😱 emoji in between each word.
 
-Example input: `"Hello"`
+Example input: `"Hello"`  
 Example output: `"HELLO!"`
 
-Example input: `"I'm almost out of coffee"`
+Example input: `"I'm almost out of coffee"`  
 Example output: `"I'M 😱 ALMOST 😱 OUT 😱 OF 😱 COFFEE!"`
