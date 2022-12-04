@@ -6,5 +6,5 @@ The function should also remove an exclamation point at the end of the sentence,
 
 Example
 
-> input: "The KITTENS are SLEEPING!"
+> input: "The KITTENS are SLEEPING!"  
 > output: "shh... the kittens are sleeping"
